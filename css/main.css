@@ -1916,7 +1916,7 @@ ul.social-links li:last-child a {
 }
 
 .info-block-w-icon .ci-text p {
-  font-size: .92em;
+  font-size: 0.97em;
 }
 
 .info-block-w-icon .ci-text p:last-child {
@@ -1927,7 +1927,7 @@ ul.social-links li:last-child a {
   position: relative;
   display: table-cell;
   font-size: 25px;
-  color: #54CA95;
+  color: #009552;
 }
 
 .info-block-w-icon img {
