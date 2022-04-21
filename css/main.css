@@ -26,7 +26,8 @@
 ============================================================================= */
 
 /* Google fonts */
-@import url('https://fonts.googleapis.com/css?family=Poppins:200,200i,300,300i,400,400i,500,500i,600,600i,700,700i');
+/* @import url('https://fonts.googleapis.com/css?family=Poppins:200,200i,300,300i,400,400i,500,500i,600,600i,700,700i'); */
+@import url('https://fonts.googleapis.com/css?family=Roboto:200,200i,300,300i,400,400i,500,500i,600,600i,700,700i');
 
 /* Linear Icons Font */
 @import url('./fonts/linear-icons-font/style.css');
@@ -51,7 +52,7 @@ html {
 body {
   position: initial;
   /* font-family: 'Poppins', Helvetica, sans-serif; */
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Roboto';
   font-size: 15px;
   font-weight: 350;
   margin: 0;
@@ -150,7 +151,7 @@ i {
 
 h1, h2, h3, h4, h5, h6 {
   /* font-family: 'Poppins', Helvetica, sans-serif; */
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Roboto';
   font-weight: 600;
   font-style: normal;
   color: #333333;
@@ -182,7 +183,7 @@ h6 {
 
 body, p {
   /* font-family: 'Poppins', Helvetica, sans-serif; */
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Roboto';
   font-size: 15px;
   font-weight: 400;
   font-style: normal;
@@ -282,7 +283,7 @@ input[type="text"] {
   box-shadow: none;
   outline: none;
   /* font-family: 'Poppins', Helvetica, sans-serif; */
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Roboto';
 }
 
 .form-control,
@@ -490,7 +491,7 @@ input[type="submit"],
   background-color: #ffffff;
   border-radius: 3px;
   /* font-family: 'Poppins', Helvetica, sans-serif; */
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Roboto';
   -webkit-transition: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;
   -o-transition: all 0.3s ease-in-out;
@@ -1806,7 +1807,7 @@ h3.comment-reply-title:before {
   font-weight: 600;
   margin-right: 15px;
   /* font-family: Poppins, Helvetica, sans-serif; */
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Roboto';
 }
 
 .info-list li .title:after {
@@ -5318,7 +5319,7 @@ a.post-thumbnail:hover {
     font-size: 18px;
     font-weight: 600;
     /* font-family: Poppins, Helvetica, sans-serif; */
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto';
     margin: 0;
     line-height: 50px;
   }
@@ -5766,7 +5767,7 @@ a.post-thumbnail:hover {
   font-size: 21px;
   font-weight: 400;
   /* font-family: Oswald, Helvetica, sans-serif; */
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Roboto';
   margin: 5px 0;
   text-align: center;
 }
