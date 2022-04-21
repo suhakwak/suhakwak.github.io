@@ -54,7 +54,7 @@ body {
   /* font-family: 'Poppins', Helvetica, sans-serif; */
   font-family: 'Roboto';
   font-size: 15px;
-  font-weight: 350;
+  font-weight: 300;
   margin: 0;
   width: 100%; /* suha */
   height: 100%;
@@ -152,7 +152,7 @@ i {
 h1, h2, h3, h4, h5, h6 {
   /* font-family: 'Poppins', Helvetica, sans-serif; */
   font-family: 'Roboto';
-  font-weight: 600;
+  font-weight: 550;
   font-style: normal;
   color: #333333;
 }
@@ -185,7 +185,7 @@ body, p {
   /* font-family: 'Poppins', Helvetica, sans-serif; */
   font-family: 'Roboto';
   font-size: 15px;
-  font-weight: 400;
+  font-weight: 300;
   font-style: normal;
   line-height: 1.75em;
   color: #000000;
@@ -1273,7 +1273,8 @@ td {
   text-decoration: none;
   line-height: 50px;
   font-size: 18px;
-  opacity: .55;
+  opacity: .65;
+  font-weight: 400;
 }
 
 .site-main-menu li.current-menu-item > a,
@@ -1981,7 +1982,7 @@ ul.social-links li:last-child a {
 .timeline-item h5.item-period {
   display: inline-block;
   position: relative;
-  font-size: 15px;
+  font-size: 14px;
   font-weight: 500;
   margin: 0 0 5px -40px;
   color: #666;
